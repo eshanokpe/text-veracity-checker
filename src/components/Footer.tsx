@@ -11,8 +11,8 @@ const Footer = () => {
       transition={{ delay: 0.8, duration: 0.5 }}
     >
       <div className="text-sm">
-        <p>© {new Date().getFullYear()} Veracity Text Verification System</p>
-        <p className="mt-1">Designed with simplicity in focus.</p>
+        <p>© {new Date().getFullYear()}  PLAGIARISM DETECTION IN TEXT-BASED ASSIGNMENTS USING NATURAL LANGUAGE PROCESSING TECHNIQUE</p>
+        {/* <p className="mt-1">Designed with simplicity in focus.</p> */}
       </div>
     </motion.footer>
   );
