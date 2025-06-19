@@ -144,7 +144,7 @@ const AnalysisResults = ({ result }: AnalysisResultProps) => {
         
         <div className="bg-muted/50 p-4 rounded-lg">
           <p className="text-sm text-muted-foreground">
-            <strong>Note:</strong> This analysis is for demonstration purposes only. In a real application, this would connect to plagiarism detection APIs or services for accurate results.
+            {/* <strong>Note:</strong> This analysis is for demonstration purposes only. In a real application, this would connect to plagiarism detection APIs or services for accurate results. */}
           </p>
         </div>
       </Card>

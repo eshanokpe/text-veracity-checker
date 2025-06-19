@@ -12,9 +12,11 @@ const Header = () => {
     >
       <div className="flex flex-col items-center">
         <span className="text-xs uppercase tracking-wider text-muted-foreground mb-2">
-          Text Verification System
+          {/* Text Verification System */}
         </span>
-        <h1 className="text-4xl md:text-5xl font-bold text-gradient">Veracity</h1>
+        <h3 className="text-3xl md:text-4xl text-center font-bold text-gradient">
+          PLAGIARISM DETECTION IN TEXT-BASED ASSIGNMENTS USING NATURAL LANGUAGE PROCESSING TECHNIQUE
+        </h3>
       </div>
     </motion.header>
   );
